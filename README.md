@@ -1,4 +1,4 @@
-# Prufer Tree Generator
+# Prüfer Tree Generator
 This repository contains MATLAB code for generating a tree from a given Prüfer sequence. The code takes a Prüfer code as input and produces a tree in the form of an edge matrix that can be plotted using MATLAB's built-in `graph` function.
 
 ### How to use
